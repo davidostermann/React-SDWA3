@@ -137,4 +137,7 @@ Node.js | V8
 
 - cf. Packages list
 
-Florian Pigis [Image Florian](https://avatars3.githubusercontent.com/u/15001695?v=3&s=460)
+* Romain Valin
+* Basile ![Basile Photo](https://avatars2.githubusercontent.com/u/15260538?v=3&u=e98797e3016b0afe6141e51a8af3c967e016824b&s=400)
+* Florian Pigis [Image Florian](https://avatars3.githubusercontent.com/u/15001695?v=3&s=460)
+
