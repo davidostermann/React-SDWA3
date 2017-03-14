@@ -137,4 +137,4 @@ Node.js | V8
 
 - cf. Packages list
 
-Florian Pigis (https://github.com/account)
+Florian Pigis [Image Florian](https://avatars3.githubusercontent.com/u/15001695?v=3&s=460)
