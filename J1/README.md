@@ -15,7 +15,7 @@
 ## Le fonctionnement des navigateurs :
 
 ### HTML markup
-     https://developer.mozilla.org/fr/docs/Web/HTML [FR]
+     https://developer.mozilla.org/fr/docs/Web/HTML
 ### Browser D.O.M (accès par javascript)
      https://developer.mozilla.org/fr/docs/Web/API/Document_Object_Model
 ### Browser Rendering
