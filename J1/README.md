@@ -136,3 +136,5 @@ Node.js | V8
 ## Check list atom :
 
 - cf. Packages list
+
+## Axel Charpentier *Sorry, I have no picture on Internet and no social network !*
