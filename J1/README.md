@@ -137,7 +137,13 @@ Node.js | V8
 
 - cf. Packages list
 
+## Students
+
 * Romain Valin
 * Basile ![Basile Photo](https://avatars2.githubusercontent.com/u/15260538?v=3&u=e98797e3016b0afe6141e51a8af3c967e016824b&s=400)
+* Florian Pigis ![Image Florian](https://giphy.com/gifs/divine-jQ4fm4Eslbfyg)
+* ## Hugo Capezzone - https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/11921673_10204612348499735_7799885829336758505_n.jpg?oh=fcd031c31832eb14a332ed155881e3bd&oe=595C4D10
+* Anthony ZAKINE ![alt tag](https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/1524754_10203702918430400_7116153028567981590_n.jpg?oh=892fb8b34b9e719cc3578d4d7b9edb79&oe=5967B740)
+* Timothée BAYART
+* Axel Charpentier *Sorry, I have no picture on Internet and no social network !*
 * Antoine [Ma photo lourde](http://i.imgur.com/AdtMN1R.jpg)
-
