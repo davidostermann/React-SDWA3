@@ -137,4 +137,5 @@ Node.js | V8
 
 - cf. Packages list
 
-Romain Valin
+## Hugo Capezzone
+- https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/11921673_10204612348499735_7799885829336758505_n.jpg?oh=fcd031c31832eb14a332ed155881e3bd&oe=595C4D10
