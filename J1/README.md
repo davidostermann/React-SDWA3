@@ -136,3 +136,5 @@ Node.js | V8
 ## Check list atom :
 
 - cf. Packages list
+
+Florian Pigis (https://github.com/account)
