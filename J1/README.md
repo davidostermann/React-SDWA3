@@ -147,3 +147,4 @@ Node.js | V8
 * Timothée BAYART
 * Axel Charpentier *Sorry, I have no picture on Internet and no social network !*
 * Antoine [Ma photo lourde](http://i.imgur.com/AdtMN1R.jpg)
+* Kieran (voir photo profil)
