@@ -146,3 +146,4 @@ Node.js | V8
 * Anthony ZAKINE ![alt tag](https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/1524754_10203702918430400_7116153028567981590_n.jpg?oh=892fb8b34b9e719cc3578d4d7b9edb79&oe=5967B740)
 * Timothée BAYART
 * Axel Charpentier *Sorry, I have no picture on Internet and no social network !*
+* Antoine [Ma photo lourde](http://i.imgur.com/AdtMN1R.jpg)
